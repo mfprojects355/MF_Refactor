@@ -1,34 +1,25 @@
-# BootCamp_Template
-Template Repo
-## Description
+# Horiseon Company Website
 
-A template for new code
+Welcome to the official repository for Horiseon's company website. This repository contains the source code for Horiseon's website, showcasing their services in search engine optimization, online reputation management, and social media marketing.
 
-## usage
+## Overview
 
-Use this one when starting new homework and project
+Horiseon's website is designed to inform visitors about the importance of search engine optimization, online reputation management, and social media marketing in today's digital landscape. The website highlights the benefits of these services and how they can positively impact a business.
 
-## Link to Deployed Application
+## Website URL
 
-In the markdown file you need to add a line with the link
+Visit the website: [https://mfprojects355.github.io/MF_Refactor/]
 
-```
-[Deployed Application](This is where the link goes)
-``` 
+## Features
 
-## Screnshot
+- **Services:** Learn about Horiseon's core services:
+  - [Search Engine Optimization](#search-engine-optimization)
+  - [Online Reputation Management](#online-reputation-management)
+  - [Social Media Marketing](#social-media-marketing)
+- **Benefits:** Understand the advantages of Horiseon's services, including lead generation, brand awareness, and cost management.
 
-```
-![screenshot](This is the path to the picture)
-```
+## How to Use This Repository
 
-## License
-
-```
-MIT License
-```
-
-## Contributing
-
-## Credits
-
+1. **Clone the Repository:**
+   ```sh
+   git clone [https://mfprojects355.github.io/MF_Refactor/]
